@@ -1,11 +1,11 @@
 <!--- 20230711 --->
-## 🖥️ Welcome to Geeklogbok
+## Welcome to Geeklogbok
 - Here you'll find:
   - A curated collection of projects showcasing my prowess in Software Engineering, Web Development, and Data Engineering.
   - Comprehensive walkthroughs of the various courses I've completed, offering insights into my professional growth over the years.
   - A range of utilities, random code snippets, and tests tailored to address Stack Overflow questions with precision and expertise.
 
-## 🖥️ Technologies
+## Technologies
 <!--https://dev.to/envoy_/150-badges-for-github-pnk-->
 <!--Python-->
 <!--Scala-->
@@ -38,7 +38,8 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
-## 📱You can find me
+## You can find me
+[Calendly](https://calendly.com/geeklogbook/30min)
 <!--Reddit-->
 <!--YouTube-->
 <!--Twitter-->
