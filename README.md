@@ -1,11 +1,9 @@
 <!--- 20230711 --->
-## 🖥️ Welcome to Geeklogbok :)
-- 👋  Welcome to my GitHub profile, a professional hub where you can explore various repositories encompassing different technologies and subjects.
+## 🖥️ Welcome to Geeklogbok
 - Here you'll find:
-  - 👀 A curated collection of projects showcasing my prowess in Software Engineering, Web Development, and Data Engineering.
-  - 👀 Comprehensive walkthroughs of the various courses I've completed, offering insights into my professional growth over the years.
-  - 👀 A range of utilities, random code snippets, and tests tailored to address Stack Overflow questions with precision and expertise.
-- 💞️ I am actively seeking collaboration opportunities for exploring new learning paths and expanding my proficiency in different programming languages.
+  - A curated collection of projects showcasing my prowess in Software Engineering, Web Development, and Data Engineering.
+  - Comprehensive walkthroughs of the various courses I've completed, offering insights into my professional growth over the years.
+  - A range of utilities, random code snippets, and tests tailored to address Stack Overflow questions with precision and expertise.
 
 ## 🖥️ Technologies
 <!--https://dev.to/envoy_/150-badges-for-github-pnk-->
