@@ -1,3 +1,13 @@
+## You can find me
+[Calendly](https://calendly.com/geeklogbook/30min)
+[Email] ()
+<!--Reddit-->
+<!--YouTube-->
+<!--Twitter-->
+<!--Instagram-->
+<!--Twich-->
+<!--Blog-->
+
 <!--- 20230711 --->
 ## Welcome to Geeklogbok
 - Here you'll find:
@@ -37,12 +47,3 @@
   <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
-
-## You can find me
-[Calendly](https://calendly.com/geeklogbook/30min)
-<!--Reddit-->
-<!--YouTube-->
-<!--Twitter-->
-<!--Instagram-->
-<!--Twich-->
-<!--Blog-->
