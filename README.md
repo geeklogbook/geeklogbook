@@ -57,5 +57,5 @@
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
   <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white">
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=clickhouse&logoColor=white">
+  <img src="https://img.shields.io/badge/Clickhouse-009639?style=for-the-badge&logo=clickhouse&logoColor=white">
 </div>
