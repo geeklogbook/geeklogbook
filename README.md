@@ -1,4 +1,4 @@
-## You can find me
+## Contact
 * [Email](mailto:contact@geeklogbook.com)
 * [WhatsApp](https://wa.me/5491123704196)
 * [Calendly](https://calendly.com/geeklogbook/30min)
