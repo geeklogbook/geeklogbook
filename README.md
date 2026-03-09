@@ -1,7 +1,6 @@
 ## You can find me
 * [Calendly](https://calendly.com/geeklogbook/30min)
-* [Email]()
-* [Whatsapp](+5491123704196)
+* [Email](contact@geeklogbook.com)
 <!--Reddit-->
 <!--YouTube-->
 <!--Twitter-->
